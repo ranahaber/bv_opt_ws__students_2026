@@ -17,3 +17,5 @@ This is the student-facing cuOpt workshop package. Open the notebooks in numbere
 - `scripts/`: optional smoke-test helper
 
 Use the `Python (cuOpt Workshop)` kernel.
+
+Note: `00-Setup-Smoke-Test.ipynb` has no TODOs. It is a runnable environment check.
