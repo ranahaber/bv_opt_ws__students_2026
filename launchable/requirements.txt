@@ -6,6 +6,7 @@
 cuopt-cu12==26.2.*
 numpy>=1.22,<2.3
 pandas
+jinja2
 matplotlib
 networkx
 jupyterlab
