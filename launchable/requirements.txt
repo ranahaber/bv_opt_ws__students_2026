@@ -1,0 +1,13 @@
+--extra-index-url https://pypi.nvidia.com
+
+# Base workshop dependencies.
+# Keep this pinned to the source workshop version for the first stable pass.
+# Upgrade to the latest cuOpt only after the base notebooks run cleanly.
+cuopt-cu12==26.2.*
+numpy>=1.22,<2.3
+pandas
+matplotlib
+networkx
+jupyterlab
+ipykernel
+notebook

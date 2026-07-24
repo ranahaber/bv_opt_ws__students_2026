@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+launchable/brev_setup.sh
+launchable/BREV_LAUNCHABLE.md
